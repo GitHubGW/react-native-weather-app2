@@ -4,7 +4,7 @@
 
 https://expo.dev/@sugargw/weather-app2
 
-#### With Android or IPhone, You can scan this QR code with your Expo Mobile App to load this project immediately.
+#### With Android or iPhone, You can scan this QR code with your Expo Mobile App to load this project immediately.
 
 <img src="previews/qrcode.png" width="260">
 
