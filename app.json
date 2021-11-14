@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-weather-app2",
-    "slug": "react-native-weather-app2",
+    "name": "Weather App2",
+    "slug": "weather-app2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/weather.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/weather.png"
-    }
+    },
+    "description": "🌞 Weather App2 With React, React Native, Expo",
+    "githubUrl": "https://github.com/GitHubGW/react-native-weather-app2"
   }
 }

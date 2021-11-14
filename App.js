@@ -117,7 +117,7 @@ export default function App() {
             </TopContainer>
             <BottomContainer horizontal={true} pagingEnabled={true} showsHorizontalScrollIndicator={false} indicatorStyle="black">
               {daily?.length === 0 ? (
-                <ActivityIndicator size="large" color="gray"></ActivityIndicator>
+                <ActivityIndicator size="large" color="white" style={{ width: width, marginBottom: 200 }}></ActivityIndicator>
               ) : (
                 <>
                   {daily?.length > 0 &&
